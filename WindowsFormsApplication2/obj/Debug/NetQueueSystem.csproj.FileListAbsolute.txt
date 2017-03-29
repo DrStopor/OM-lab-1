@@ -1,0 +1,12 @@
+C:\Users\rds18\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\rds18\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\NetQueueSystem.csproj.GenerateResource.Cache
+C:\Users\rds18\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\NetQueueSystem.exe.config
+C:\Users\rds18\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\NetQueueSystem.Properties.Resources.resources
+C:\Users\rds18\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\NetQueueSystem.exe
+C:\Users\rds18\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\NetQueueSystem.pdb
+C:\Users\rds18\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\NetQueueSystem.exe
+C:\Users\rds18\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\NetQueueSystem.pdb
+C:\Users\rds18\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\NetQueueSystem.csprojResolveAssemblyReference.cache
+C:\Users\rds18\Source\Repos\OM-lab-1\WindowsFormsApplication2\bin\Debug\NetQueueSystem.exe.config
+C:\Users\rds18\Source\Repos\OM-lab-1\WindowsFormsApplication2\obj\Debug\NetQueueSystem.exe
+C:\Users\rds18\Source\Repos\OM-lab-1\WindowsFormsApplication2\obj\Debug\NetQueueSystem.pdb
